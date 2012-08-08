@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="adw_changelog">
+-&lt;b>NOTICE:&lt;/b> Welcome to CyanMobile eXperience &lt;br>&lt;br>
+-&lt;b>REMEMBER:&lt;/b> Before you ask something, Please Play more with rom &lt;br>&lt;br>
+
+&lt;b>eXperience release:&lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>1. Statusbar : &lt;/b>&lt;br>
+&lt;b> * Date &lt;/b>&lt;br>
+-Show/Hide Date &lt;br>
+-Date Colour &lt;br>
+&lt;b> * Notications &lt;/b>&lt;br>
+-Ticker Color &lt;br>
+-No Title Color &lt;br>
+-Latest Title Color &lt;br>
+-Ongoing Title Color &lt;br>
+-Clear Label Button Color &lt;br>
+-Title Color &lt;br>
+-Item Color &lt;br>
+-Time Color &lt;br>
+&lt;b> * Icons &lt;/b>&lt;br>
+-Show/Hide Notification Icons &lt;br>
+-Show/Hide Statusbar Icons &lt;br>
+-Show/Hide Variouse Icon &lt;br>
+&lt;b> * Clock &lt;/b>&lt;br>
+-4 Clock styles &lt;br>
+-Clock Color &lt;br>
+-Clock font size &lt;br>
+&lt;b> * Carrier label &lt;/b>&lt;br>
+-Show/Hide Carrier Label &lt;br>
+-Bottom Carrier Label &lt;br>
+-3 Carrier Label on Statusbar styles &lt;br>
+-Carrier Label Color &lt;br>
+-4 Carrier Logo styles &lt;br>
+&lt;b> * Signal &lt;/b>&lt;br>
+-5 Different Styles &lt;br>
+-Wifi signal Text &lt;br>
+&lt;b> * Battery &lt;/b>&lt;br>
+-7 Different Styles &lt;br>
+-3 Different Battery Percentage Format &lt;br>
+-Statusbar Battery Color &lt;br>
+&lt;b> * Power Widget &lt;/b>&lt;br>
+-4 Different Layouts &lt;br>
+-Music Widget &lt;br>
+-Grid Layout Customizing &lt;br>
+&lt;b> * Misc &lt;/b>&lt;br>
+-Weather widget(require geniewidget) &lt;br>
+-Custom Shortcut Statusbar &lt;br>
+-Show/Hide Statusbar &lt;br>
+-Reverse Statusbar Icons and layout &lt;br>
+-Statusbar Brightness Control &lt;br>
+-Statusbar Fonts Size &lt;br>
+-Statusbar Icons Size &lt;br>
+-Statusbar Height Size &lt;br>
+-Statusbar Background &lt;br>
+-Statusbar Background Color &lt;br>
+-Notification Background &lt;br>
+-Notification Background Color &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>2. Framework : &lt;/b>&lt;br>
+&lt;b> * Lockscreen &lt;/b>&lt;br>
+-7 Different Lockscreen Styles &lt;br>
+-Lockscreen Widget Color &lt;br>
+-Sms/Call Notifications &lt;br>
+-Fuzzy Clock &lt;br>
+-Custom text Lockscreen &lt;br>
+-Widget Layouts &lt;br>
+-Pattern Styles &lt;br>
+&lt;b> * Power Saver &lt;/b>&lt;br>
+-Screen Off Data Action &lt;br>
+-Data Action Delay &lt;br>
+-Sync Action &lt;br>
+-Sync Time Interval &lt;br>
+-Screen Off Wifi Action &lt;br>
+-Sync Data usage &lt;br>
+-Mobile Data Preference &lt;br>
+&lt;b> * Application &lt;/b>&lt;br>
+-Native A2sd Framework Core &lt;br>
+-Installation Place &lt;br>
+&lt;b> * Display &lt;/b>&lt;br>
+-Bravia Engine &lt;br>
+-Rotation Animation &lt;br>
+-Window Animations &lt;br>
+-Transition Animations &lt;br>
+-LCD Density &lt;br>
+&lt;b> * Input &lt;/b>&lt;br>
+-Enable/Disable Vibrate on Shutdown &lt;br>
+-Explorer Key &lt;br>
+&lt;b> * Power Menu &lt;/b>&lt;br>
+-Show/Hide Power menu Toggles &lt;br>
+&lt;b> * Fonts &lt;/b>&lt;br>
+-Change Fonts System &lt;br>
+-Change Fonts Type &lt;br>
+&lt;b> * OverScroll &lt;/b>&lt;br>
+-Effect &lt;br>
+-Color &lt;br>
+-Weight &lt;br>
+&lt;b> * Core Replacer &lt;/b>&lt;br>
+-Change System Apps &lt;br>
+-Change Framework Jar &lt;br>
+&lt;b> * Boot/Shutdown animation and Sound &lt;/b>&lt;br>
+-Preview &lt;br>
+-Change Bootanimation &lt;br>
+-Change Shutdownanimation &lt;br>
+-Change Bootsound &lt;br>
+&lt;b> * Misc &lt;/b>&lt;br>
+-Global Text Color Change &lt;br>
+-Global App Background Change &lt;br>
+-Soft Button Statusbar &lt;br>
+-Navigation Button Bar &lt;br>
+-Choose Navi Button &lt;br>
+-Navigation Button Bar Size &lt;br>
+-Navigation Bar Background &lt;br>
+-Extend Power menu &lt;br>
+-Remap Volume Keys &lt;br>
+-Lock Volume Keys &lt;br>
+-Volume Key Beeps &lt;br>
+-Swap Volume Keys &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>3. Sound : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Loop Ringtone &lt;br>
+-Flip Down To Mute Ringer/Snooze Alarm &lt;br>
+-Increasing Ringtone Volume &lt;br>
+-Less Frequent Notification Sound &lt;br>
+-Battery Full/Low Alert &lt;br>
+-Charging Plug/Unplug Sound &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>4. Tethering : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Bluetooth Tether &lt;br>
+-Auto Usb Tether &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>5. Phone : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Smart Phone Call &lt;br>
+-Back Button to End Call &lt;br>
+-Menu Button to Answer Call &lt;br>
+-Reject Call with Message &lt;br>
+-Allow Incall UI Touch &lt;br>
+-Call Me Louder while inside Bags &lt;br>
+-Speed Dials &lt;br>
+-Video Ringtone &lt;br>
+-Ring Delay &lt;br>
+-Export/Import SIM Contacts &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>6. Messaging : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Bubble/Black/Transparent Theme &lt;br>
+-Smart Phone Call &lt;br>
+-Hide Avatar &lt;br>
+-Strip Unicode &lt;br>
+-Emoji Support &lt;br>
+-Convo List/Subject Font Size &lt;br>
+-Sms Vibrate Morse &lt;br>
+-Brutal Sender &lt;br>
+-Sms PopUp &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>7. Music : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Shake to Next/Prev/Play/Pause/Shuttle Track &lt;br>
+-Favorite Folder &lt;br>
+-Flip to Play/Pause &lt;br>
+-Smooth Play Track &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>8. Locations : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Enable/Disable Assisted GPS &lt;br>
+-GPS Performance &lt;br>
+-Security Finder &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>9. Performance : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-New Dithering support &lt;br>
+-Enable Bootsound &lt;br>
+-Bootsound Volume &lt;br>
+-Enable Shutdownanimation &lt;br>
+-Gmaps Hack &lt;br>
+-KSM Settings &lt;br>
+-Battery Polling &lt;br>
+-Low Mem Killer Option &lt;br>
+-Scrolling Option &lt;br>
+-IO Scheduler Option &lt;br>
+-SD Read Ahead Size option &lt;br>
+-Screen Off Max CPU Freq &lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>10. Misc : &lt;/b>&lt;br>
+&lt;b> * Features &lt;/b>&lt;br>
+-Calculator Improving &lt;br>
+-Browser Improving &lt;br>
+-FM Radio Improving &lt;br>
+-File Manager Update &lt;br>
+-SIM ToolKit Improving &lt;br>
+-Voice Dialer Improving &lt;br>
+-DeskClock Improving (Add DigitalClock Widget)&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+&lt;b>11. All Binary and Library is up to Date &lt;/b>&lt;br>
+&lt;b>--------------&lt;/b>&lt;br>
+
+</string>
+</resources>
